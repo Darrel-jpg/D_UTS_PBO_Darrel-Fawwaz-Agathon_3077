@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\bin\Debug\net8.0\UTS.exe
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\bin\Debug\net8.0\UTS.deps.json
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\bin\Debug\net8.0\UTS.runtimeconfig.json
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\bin\Debug\net8.0\UTS.dll
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\bin\Debug\net8.0\UTS.pdb
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\obj\Debug\net8.0\UTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\obj\Debug\net8.0\UTS.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\obj\Debug\net8.0\UTS.AssemblyInfo.cs
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\obj\Debug\net8.0\UTS.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\obj\Debug\net8.0\UTS.dll
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\obj\Debug\net8.0\refint\UTS.dll
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\obj\Debug\net8.0\UTS.pdb
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\obj\Debug\net8.0\UTS.genruntimeconfig.cache
+C:\Users\ACER\Documents\Coding\Visual Studio\OOP_\UTS\obj\Debug\net8.0\ref\UTS.dll
